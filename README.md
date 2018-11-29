@@ -1,10 +1,10 @@
-# microclimate.network APIs Specification
+# microclimate.network API Specification
 
-## microclimate.network Inbound API
+## microclimate.network Data Inbound API
 
-> http://microclimate.network/api/v1/
+http://microclimate.network/api/v1/
 
-JSON Data Format:
+JSON Input Data Format:
 
 > {
 >
