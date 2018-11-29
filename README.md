@@ -1,4 +1,4 @@
-# microclimate.network API Specification
+# microclimate.network Documentation
 
 ## microclimate.network Data Inbound API
 
