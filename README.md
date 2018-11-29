@@ -1,6 +1,6 @@
 # microclimate.network APIs Specification
 
-## Inbound API
+## microclimate.network Inbound API
 
 > http://microclimate.network/api/v1/
 
@@ -64,7 +64,7 @@ The mc.node One is using the following Payload format:
 
 ## microclimate.node TTN Payload Data Decoder
 
->function Decoder(bytes) {
+> function Decoder(bytes) {
 >
 >  var I1 = bytes[0];
 >
@@ -87,7 +87,7 @@ The mc.node One is using the following Payload format:
 >  var TC01 = bytes[11];
 >  
 >
->  return {
+> return {
 >
 >    Temperature: T1 + T01 / 100.0,
 >
@@ -103,6 +103,6 @@ The mc.node One is using the following Payload format:
 >
 >    Info: I1
 >
->  };
+> };
 >
 >}
