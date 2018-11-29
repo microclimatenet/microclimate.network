@@ -1,0 +1,5 @@
+{
+"dev_id":"DEVICE_NAME", "hardware_serial":"DEVICE_EUI",
+"payload_fields":{"Temperature":TEMPERATURE, "Humidity":HUMIDITY, "AirPressure":AIR_PRESSURE},
+"metadata":{"time":"TIMESTAMP", "latitude":LATITUDE,"longitude":LONGITUDE}
+}
