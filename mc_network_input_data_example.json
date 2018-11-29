@@ -1,0 +1,5 @@
+{
+"dev_id":"Temperature_Sensor_001","hardware_serial":"0030951CF0055712",
+"payload_fields":{"Temperature":21.55 "Humidity":55.60, "AirPressure":1023},
+"metadata":{"time":"2018-10-04T09:51:42.036017563Z", "latitude":46.23505,"longitude":14.518397}
+}
