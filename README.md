@@ -31,6 +31,20 @@ JSON Data Format Example:
 Note: Additional JSON parameters are allowed and they are ignored.
 
 
+## microclimate.network TTN HTTP Integration API
+
+Access Key: default key (devices)(messages)
+
+URL: http://microclimate.network/ttn/
+
+Method: POST
+
+Authorization: (empty)
+
+Custom Header Name: (empty)
+
+Custom Header Value: (empty)
+
 ## microclimate.node Data Payload
 
 The mc.node One is using the following 12B Payload format:
