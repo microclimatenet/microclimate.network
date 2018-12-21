@@ -16,7 +16,7 @@ JSON Input Data Format:
 >
 > }
 
-JSON Data Format Example:
+JSON Input Data Format Example:
 
 > {
 >
@@ -75,7 +75,7 @@ JSON Input Data Format:
 >
 > }
 
-JSON Data Format Example:
+JSON Output Data Format Example:
 
 > {
 >
