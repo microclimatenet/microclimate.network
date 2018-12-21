@@ -61,6 +61,7 @@ https://github.com/microclimatenet/microclimate.network/blob/master/mc_node_ttn_
 
 ## microclimate.network Outbound Data API
 
+Outbound Data API is based on the HTTP Integration. Please contact us at info@microclimate.network to enable integration to your platform URL for each microclimate.node based on the DeviceEUI (hardware_serial).
 
 JSON Input Data Format:
 
@@ -86,4 +87,3 @@ JSON Data Format Example:
 >
 > }
 
-Note: Additional JSON parameters are allowed and they are ignored.
